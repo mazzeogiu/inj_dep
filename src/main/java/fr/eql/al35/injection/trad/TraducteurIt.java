@@ -9,7 +9,7 @@ public class TraducteurIt implements Traducteur {
 
 	@Override
 	public String traduire(String message) {
-		// TODO Auto-generated method stub
+		// TODO implement traslation
 		return "traduction itelien de : " + message;
 	}
 
